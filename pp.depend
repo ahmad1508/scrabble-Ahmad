@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1604409561 source:c:\users\ahmad\desktop\bureau\info\pp\pioche.c
+	"Pioche.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604412104 c:\users\ahmad\desktop\bureau\info\pp\pioche.h
+	"jeu.h"
+
+1604519734 c:\users\ahmad\desktop\bureau\info\pp\jeu.h
+
+1604500778 source:c:\users\ahmad\desktop\bureau\info\pp\dictionnaire.c
+	"dictionnaire.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604412104 c:\users\ahmad\desktop\bureau\info\pp\dictionnaire.h
+	"jeu.h"
+
+1604520931 source:c:\users\ahmad\desktop\bureau\info\pp\donnee.c
+	"donnee.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604414722 c:\users\ahmad\desktop\bureau\info\pp\donnee.h
+	"Chevalet.h"
+	"Plateau.h"
+
+1604416994 c:\users\ahmad\desktop\bureau\info\pp\chevalet.h
+	"Pioche.h"
+
+1604509381 c:\users\ahmad\desktop\bureau\info\pp\plateau.h
+	"jeu.h"
+	"Pioche.h"
+
+1604513907 source:c:\users\ahmad\desktop\bureau\info\pp\plateau.c
+	"Plateau.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1604520569 source:c:\users\ahmad\desktop\bureau\info\pp\chevalet.c
+	"Chevalet.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604414798 source:c:\users\ahmad\desktop\bureau\info\pp\main.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1604414798 c:\users\ahmad\desktop\bureau\info\pp\menu.h
+	"lancer.h"
+
+1604603198 c:\users\ahmad\desktop\bureau\info\pp\lancer.h
+	"donnee.h"
+	"dictionnaire.h"
+	"menu.h"
+
+1604416129 source:c:\users\ahmad\desktop\bureau\info\pp\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1604513434 source:c:\users\ahmad\desktop\bureau\info\pp\lancer.c
+	"lancer.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1604519270 source:c:\users\ahmad\desktop\bureau\info\pp\ia.c
+	<stdio.h>
+	<stdlib.h>
+
+1604843713 source:c:\users\ahmad\desktop\bureau\info\derniere-version\chevalet.c
+	"Chevalet.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604786174 c:\users\ahmad\desktop\bureau\info\derniere-version\chevalet.h
+	"Pioche.h"
+
+1604786258 c:\users\ahmad\desktop\bureau\info\derniere-version\pioche.h
+	"jeu.h"
+	"donnee.h"
+	"menu.h"
+
+1604827962 c:\users\ahmad\desktop\bureau\info\derniere-version\jeu.h
+
+1604846712 source:c:\users\ahmad\desktop\bureau\info\derniere-version\dictionnaire.c
+	"dictionnaire.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604844670 c:\users\ahmad\desktop\bureau\info\derniere-version\dictionnaire.h
+	"jeu.h"
+
+1604844262 source:c:\users\ahmad\desktop\bureau\info\derniere-version\donnee.c
+	"donnee.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604767220 c:\users\ahmad\desktop\bureau\info\derniere-version\donnee.h
+	"Chevalet.h"
+	"Plateau.h"
+
+1604509381 c:\users\ahmad\desktop\bureau\info\derniere-version\plateau.h
+	"jeu.h"
+	"Pioche.h"
+
+1604519270 source:c:\users\ahmad\desktop\bureau\info\derniere-version\ia.c
+	<stdio.h>
+	<stdlib.h>
+
+1604847209 source:c:\users\ahmad\desktop\bureau\info\derniere-version\lancer.c
+	"lancer.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1604603198 c:\users\ahmad\desktop\bureau\info\derniere-version\lancer.h
+	"donnee.h"
+	"dictionnaire.h"
+	"menu.h"
+
+1604414798 c:\users\ahmad\desktop\bureau\info\derniere-version\menu.h
+	"lancer.h"
+
+1604787204 source:c:\users\ahmad\desktop\bureau\info\derniere-version\main.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1604842952 source:c:\users\ahmad\desktop\bureau\info\derniere-version\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+
+1604787204 source:c:\users\ahmad\desktop\bureau\info\derniere-version\pioche.c
+	"Pioche.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1604787205 source:c:\users\ahmad\desktop\bureau\info\derniere-version\plateau.c
+	"Plateau.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1604786012 source:c:\users\ahmad\desktop\bureau\info\derniere-version\jeu.c
+	"jeu.h"
+	"Pioche.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

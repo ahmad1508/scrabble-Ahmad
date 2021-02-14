@@ -1,0 +1,3 @@
+ahmad OLEHYUW 12rami ULEOREO 0
+
+/* nom chevalet et score des joueurs*/

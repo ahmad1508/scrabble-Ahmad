@@ -1,0 +1,4 @@
+2 1 1
+
+/*j'ai pus sauvegarder 2 qui est le nbr de joueurs , 
+1 le tour du joueur et 1 le nbr de mot placer*/
